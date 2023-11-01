@@ -13,12 +13,21 @@
     "anchors": {
       "from": "#0D9373",
       "to": "#07C983"
+    },
+    "background": {
+      "dark": "#000000",
+      "light": "#ffffff"
     }
+  },
+  "feedback": {
+    "thumbsRating": true,
+    "suggestEdit": true,
+    "raiseIssue": true
   },
   "topbarLinks": [
     {
       "name": "Support",
-      "url": "mailto:hi@mintlify.com"
+      "url": "mailto:mujeeb.muhideen@gmail.com"
     }
   ],
   "topbarCtaButton": {
@@ -83,8 +92,8 @@
     }
   ],
   "footerSocials": {
-    "twitter": "https://twitter.com/mintlify",
-    "github": "https://github.com/mintlify",
-    "linkedin": "https://www.linkedin.com/company/mintsearch"
+    "twitter": "https://twitter.com/mmujhtech",
+    "github": "https://github.com/mujhtech",
+    "linkedin": "https://www.linkedin.com/in/mujeeb-adeoye-42378a15b/"
   }
 }
