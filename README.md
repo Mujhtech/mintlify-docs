@@ -2,7 +2,7 @@
   <a href="https://statussync.dev" target="_blank">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://txschbihbvgxhlenelys.supabase.co/storage/v1/object/public/statussync-bc/logo.png">
-    <img src="https://txschbihbvgxhlenelys.supabase.co/storage/v1/object/public/statussync-bc/logo.png" width="280" alt="Logo"/>
+    <img src="https://txschbihbvgxhlenelys.supabase.co/storage/v1/object/public/statussync-bc/logo.png" width="160" alt="Logo"/>
   </picture>
   </a>
 </div>
