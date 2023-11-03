@@ -42,9 +42,9 @@
   ],
   "anchors": [
     {
-      "name": "Documentation",
+      "name": "Homepage",
       "icon": "book-open-cover",
-      "url": "https://docs.statussync.dev"
+      "url": "https://statussync.dev"
     },
     {
       "name": "Community",
