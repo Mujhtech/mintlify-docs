@@ -42,9 +42,9 @@
   ],
   "anchors": [
     {
-      "name": "Homepage",
-      "icon": "book-open-cover",
-      "url": "https://statussync.dev"
+      "name": "Changelog",
+      "icon": "discord",
+      "url": "https://statussync.dev/changelog"
     },
     {
       "name": "Community",
@@ -70,6 +70,12 @@
         "quickstarts/team",
         "quickstarts/billing",
         "quickstarts/api"
+      ]
+    },
+    {
+      "group": "Resources",
+      "pages": [
+        "resources/sdk"
       ]
     },
     {
